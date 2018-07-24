@@ -1,0 +1,26 @@
+
+
+h1
+{
+ color: darkblue;
+  }
+body{
+ background-color: green;
+  }
+
+.silver{
+  color: silver;
+}
+.bronze{
+  color: #C9AE5D;
+}
+.gold{
+  color: gold;
+}
+
+#gameLink {
+text-align: center;
+border: 1px solid gray;
+}
+
+#credits{ font-size: 36px;  }
